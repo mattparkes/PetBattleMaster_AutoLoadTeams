@@ -1,0 +1,14 @@
+## Interface: 60000
+## Title: PetBattleMaster_AutoLoadTeams
+## Notes: Automatically Loads PBM Teams based on the current Target.
+## Author: Lilianthé
+## SavedVariables: PetBattleMaster_AutLoadTeams
+## DefaultState: enabled
+## Dependancies:
+## Version: 0.7
+## X-Feedback: http://www.curse.com/addons/wow/petbattlemaster_autoloadteams
+
+PetBattleMaster_AutoLoadTeams.xml
+
+Locale-enUS.lua
+PetBattleMaster_AutoLoadTeams.lua
